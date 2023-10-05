@@ -14,7 +14,7 @@ package comentandounaclase;
  * <li><strong>cantidad total de entradas vendidas</strong> para todos los teatros y todas las obras.</li>
  * </ul>
  *
- * @author Luis
+ * @author Luis, pero ahora soy Ricardo
  * @version 2.0
  * @since 16/03/2023
  */
